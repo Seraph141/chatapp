@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1e6965ec-1e8d-46ea-ae6a-c7b83a978481": {
+      "ProjectGuid": "1e6965ec-1e8d-46ea-ae6a-c7b83a978481",
+      "DisplayName": "WPFChat",
+      "ColorIndex": 0
+    },
+    "c1dfdd6a-f166-4d4b-84e2-665c910f2989": {
+      "ProjectGuid": "c1dfdd6a-f166-4d4b-84e2-665c910f2989",
+      "DisplayName": "Server",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
